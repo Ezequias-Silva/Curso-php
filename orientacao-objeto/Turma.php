@@ -1,7 +1,7 @@
 <?php
 /*
 
-5.3 (spl_autoload_register)
+
 
 13 - Em uma escola, os alunos precisam ser divididos por turmas, que devem ser representadas
 dentro da aplicação. Crie uma classe chamada Turma que contenha quatro atributos: o primeiro

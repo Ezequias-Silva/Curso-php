@@ -1,4 +1,6 @@
 <?php
+//5.3 (spl_autoload_register)
+//require_once(Cliente.php);
 
 /*
 7 - As contas do banco possuem número, saldo e limite. Crie uma classe chamada Conta
