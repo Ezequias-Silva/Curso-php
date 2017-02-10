@@ -1,5 +1,17 @@
 <?php
+$cursos = array();
+$cursos[] = "TDD";
+$cursos[] = "Android";
 
+echo "$cursos[0]".PHP_EOL;
+
+//Quantidade de elementos do array
+echo "Quantidade de elementos do array: ".count($cursos).PHP_EOL;
+
+//pegar paramentos
+
+
+/*
 //$cursos = $arrays();
 //$cursos = array(10,20,30);
 $cursos = array("Lógica", "OO", "Desenvolvimento");
